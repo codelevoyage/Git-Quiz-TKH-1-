@@ -2,7 +2,7 @@
 
 # Project Title
 
-This project is a simple user eligibility checker.
+This project is a simple user eligibility checker
 
 ## Getting Started
 
@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-The things you need before installing the software.
+The things you need before installing the software
 
 - Git
 - Visual Studio Code
